@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 
-DATA_PATH = "../data"
+DATA_PATH = "data"
 FOODGRAM_FILE = "foodgram_aug_30_2023.csv"
 DISEASE_INDEX_FILE = "disease_index_foodgram_aug_30_2023.csv"
 FOOD_INDEX_FILE = "food_index_foodgram_aug_30_2023.csv"
