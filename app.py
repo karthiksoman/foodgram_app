@@ -85,6 +85,7 @@ def main():
                     dot_product_dict["name"] = tsne_df.iloc[index]["name"]
                     dot_product_dict["nodetype"] = tsne_df.iloc[index]["nodetype"]
                     dot_product_dict["similarity score"] = np.dot(sel_embedding, item)
+                    dot_product_dict["distance score"] = np.linalg.norm(sel_embedding - item)
                     dot_product_list.append(dot_product_dict)
                 dot_product_df = pd.DataFrame(dot_product_list)
                 dot_product_df_food = dot_product_df[dot_product_df.nodetype == "Food"]
