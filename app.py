@@ -69,6 +69,7 @@ def main():
             foodgram = foodgram_df.to_numpy()[:,2:].astype(float)
             food_embeddings, disease_embeddings = get_embeddings(foodgram)
             total_embeddings = np.concatenate([food_embeddings, disease_embeddings])
+            total_embeddings_normal = total_embeddings / np.linalg.norm(total_embeddings, axis=1, keepdims=True)
             st.markdown("<h4 style='text-align: center; color: black;'>Enter the name of an entity</h1>", unsafe_allow_html=True)
             selected_entity = st.selectbox(" ", [DEFAULT_SELECTION]+food_names+disease_names, index=0)
             if selected_entity != DEFAULT_SELECTION:    
@@ -77,9 +78,9 @@ def main():
                 plot_tsne_embeddings_after_entity_selection(selected_entity)
                 tsne_df = pd.read_csv(TSNE_PATH) 
                 embedding_index = tsne_df[tsne_df.name == selected_entity].index.values[0]
-                sel_embedding = total_embeddings[embedding_index]                
+                sel_embedding = total_embeddings_normal[embedding_index]                
                 dot_product_list = []
-                for index, item in enumerate(total_embeddings):                    
+                for index, item in enumerate(total_embeddings_normal):                    
                     dot_product_dict = {}
                     dot_product_dict["name"] = tsne_df.iloc[index]["name"]
                     dot_product_dict["nodetype"] = tsne_df.iloc[index]["nodetype"]
