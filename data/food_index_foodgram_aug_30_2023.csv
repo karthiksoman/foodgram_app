@@ -1,0 +1,396 @@
+identifier,name
+FOODON:03301824,pili nut (raw)
+FOODON:03304656,radish (raw)
+FOODON:03309855,whole oats (raw)
+FOODON:03310978,chestnut (raw)
+FOODON:03303171,nut
+FOODON:03301716,spinach leaf (raw)
+FOODON:03309966,veal steak (raw)
+FOODON:03302452,gluten bread
+FOODON:00001873,food spread
+FOODON:00002465,scone
+FOODON:03315482,wonton pastry (case)
+FOODON:00001288,cantaloupe fruit food product
+FOODON:03411457,chicken
+FOODON:03414166,domestic turkey
+FOODON:03301605,cottage cheese
+FOODON:00003016,orange bell pepper (raw)
+FOODON:03309956,white lupine (raw)
+FOODON:03411300,onion plant
+FOODON:03301833,potato chip
+FOODON:00003191,horned melon (raw)
+FOODON:03301175,cinnamon
+FOODON:03303009,chicken skin (raw)
+FOODON:03303920,peppermint
+FOODON:03301441,lemon (raw)
+FOODON:03301774,asparagus (raw)
+FOODON:00002781,pigeon pea
+FOODON:00003121,durian (raw)
+FOODON:03301469,bouillon cube
+FOODON:03301357,cashew nut (raw)
+FOODON:00002957,lemongrass leaf
+FOODON:03301641,rice kernel food product
+FOODON:03411316,duck
+FOODON:03310721,beechnut (raw)
+FOODON:03303012,chicken breast (raw)
+FOODON:00003146,tapioca pearls
+FOODON:00003062,robusta coffee (liquid)
+FOODON:03311349,asparagus spear (raw)
+FOODON:03305317,guava (raw)
+FOODON:03306516,black walnut (raw)
+FOODON:00002843,Williams pear (raw)
+FOODON:03302643,butter (salted)
+FOODON:03301950,apple (dried)
+FOODON:03302549,zwieback
+FOODON:03309626,shark (raw)
+FOODON:03307208,turkey (raw)
+FOODON:00003017,pattypan squash (raw)
+FOODON:03307015,prawn (raw)
+FOODON:03301828,okra (raw)
+FOODON:03307633,turnip (raw)
+FOODON:03310123,kohlrabi stem (raw)
+FOODON:03310243,parsnip (boiled)
+FOODON:03302727,chicory head (raw)
+FOODON:03303578,mozzarella cheese
+FOODON:03306104,lingonberry (raw)
+FOODON:03310306,sesame seed
+FOODON:03302492,rye flour
+FOODON:03306347,pasta
+FOODON:03411479,brown trout
+FOODON:00003032,custard apple (raw)
+FOODON:00002977,baby spinach
+FOODON:03301014,grape wine
+FOODON:03301714,brussels sprout (raw)
+FOODON:00003003,macadamia nut
+FOODON:00003033,cherimoya fruit (raw)
+FOODON:03301121,"chicken (whole or parts, raw)"
+FOODON:03303659,swiss cheese
+FOODON:03315552,juice beverage
+FOODON:03301805,salmon (smoked)
+FOODON:03306698,swiss chard leaf (raw)
+FOODON:03310823,acerola (raw)
+FOODON:03411635,shiitake mushroom
+FOODON:03310290,kefir
+FOODON:03304046,curry sauce
+FOODON:00002912,mutton
+FOODON:03310943,zucchini squash
+FOODON:03308164,rock oyster (raw)
+FOODON:03301705,vinegar
+FOODON:03414363,kiwi
+FOODON:03315451,wakame
+FOODON:03311276,yellow onion (raw)
+FOODON:03411335,crab
+FOODON:03301040,watermelon (raw)
+FOODON:03311761,hazelnut chocolate spread
+FOODON:03301129,apple cider (non-alcoholic)
+FOODON:00003131,common wheat kernel
+FOODON:03305003,worcestershire sauce
+FOODON:03310104,chinese cabbage head (raw)
+FOODON:03303225,syrup
+FOODON:00001998,lettuce head food product
+FOODON:03301149,acorn (raw)
+FOODON:03304869,"sunflower seed (whole kernel, raw)"
+FOODON:03301713,broccoli floret (raw)
+FOODON:00003208,miso
+FOODON:03309718,flaxseed (raw)
+FOODON:03301268,black olive (raw)
+FOODON:00003555,mandarin orange
+FOODON:03301083,fish (frozen)
+FOODON:03301449,potato (raw)
+FOODON:00001222,sausage (raw)
+FOODON:00001649,black or white pepper product
+FOODON:03309932,tamarind pod (raw)
+FOODON:00001829,egg product analog
+FOODON:03311075,breakfast cereal
+FOODON:03304356,strawberry (frozen)
+FOODON:03308020,mullet (raw)
+FOODON:03302120,blueberry (frozen)
+FOODON:00002688,food (boiled)
+FOODON:00003462,white mushroom
+FOODON:03301938,doughnut
+FOODON:03315232,pecan nut (raw)
+FOODON:00003467,meat (boneless)
+FOODON:03310299,winged bean
+FOODON:03309069,bream (raw)
+FOODON:03411644,cuttlefish
+FOODON:03301762,cottonseed
+FOODON:03301116,wheat flour
+FOODON:00001681,caper food product
+FOODON:03305289,soybean milk
+FOODON:03302200,wheat bread
+FOODON:00003035,greater burdock root
+FOODON:03311076,pork chop (raw)
+FOODON:03315874,red bell pepper (raw)
+FOODON:00003087,jackfruit (raw)
+FOODON:03301773,"artichoke (whole, raw)"
+FOODON:03311146,sauce
+FOODON:03411505,lobster
+FOODON:03309749,hyacinth bean
+FOODON:03413726,maitake mushroom
+FOODON:03309737,beef (raw)
+FOODON:03302908,ricotta cheese
+FOODON:00003066,pomegranate (raw)
+FOODON:03315223,acorn squash (raw)
+FOODON:03309498,lamb (raw)
+FOODON:03301701,apricot (raw)
+FOODON:03301722,strawberry (raw)
+FOODON:00002532,naan
+FOODON:00003094,star anise food product
+FOODON:03302116,cow milk (liquid)
+FOODON:03411205,squid
+FOODON:03301329,white chocolate
+FOODON:03302806,milk chocolate
+FOODON:03301831,pineapple (raw)
+FOODON:00002981,butternut squash (raw)
+FOODON:00003056,rice bread
+FOODON:03302052,corn chip
+FOODON:03301355,almond (raw)
+FOODON:03411237,shrimp
+FOODON:00003038,borage food product
+FOODON:03306811,chickpea
+FOODON:03307043,yam (raw)
+FOODON:03412686,crawfish or crayfish
+FOODON:03302092,beef fat
+FOODON:03301072,cocoa
+FOODON:03316627,caramel hard
+FOODON:00003044,basil food product
+FOODON:03307119,raspberry (raw)
+FOODON:00003186,leavening agent
+FOODON:03303508,brie cheese
+FOODON:03303029,chicken wing (raw)
+FOODON:03312032,potato skin
+FOODON:03307668,tortilla
+FOODON:03309360,pine nut kernel (raw)
+FOODON:03309978,sorghum kernel
+FOODON:03310002,soybean paste
+FOODON:00003508,crisphead lettuce
+FOODON:03411125,guinea fowl
+FOODON:03306944,noodle
+FOODON:03302995,camembert cheese
+FOODON:03311757,leek (raw)
+FOODON:00001302,lasagne food product
+FOODON:00002761,kidney bean
+FOODON:03310435,asparagus bean pod
+FOODON:03305285,breadfruit (raw)
+FOODON:00002439,endive
+FOODON:03412032,morel mushroom
+FOODON:03305319,naranjilla (raw)
+FOODON:00003019,shallot (raw)
+FOODON:03309754,jicama tuber (raw)
+FOODON:03303085,coconut (raw)
+FOODON:03315521,tallow (edible)
+FOODON:03307686,white sauce
+FOODON:03302535,cake mix (dry)
+FOODON:03302732,cauliflower floret (raw)
+FOODON:03316284,horseradish
+FOODON:00003101,star fruit
+FOODON:00003067,arrowroot starch
+FOODON:00001914,gooseberry food product
+FOODON:03310641,lentil
+FOODON:03411460,pheasant
+FOODON:03303079,clementine (raw)
+FOODON:03310272,red wine
+FOODON:03301115,soy sauce
+FOODON:03301415,soybean
+FOODON:00002328,vanilla bean food product
+FOODON:03411304,pigeon
+FOODON:03301727,celery stalk (raw)
+FOODON:03315184,whole wheat kernel
+FOODON:00003011,wax bean
+FOODON:00003091,"european chestnut (whole, raw)"
+FOODON:03301821,brazilnut (raw)
+FOODON:03301619,barley malt beer beverage
+FOODON:03301946,baked beans (dish)
+FOODON:03301771,veal (raw)
+FOODON:03302053,lima bean
+FOODON:03307240,chocolate
+FOODON:03311389,pizza (frozen)
+FOODON:03310126,plantain (raw)
+FOODON:03303520,red kidney bean (canned)
+FOODON:03305086,lime (raw)
+FOODON:03302080,lupine bean (raw)
+FOODON:03301055,white bread
+FOODON:00002659,food (toasted)
+FOODON:00001811,dill food product
+FOODON:03301570,carrot root (raw)
+FOODON:03311283,fast food
+FOODON:03305208,garlic bulb (raw)
+FOODON:03307242,parsnip (raw)
+FOODON:03301703,oyster (raw)
+FOODON:03307912,bamboo shoot (raw)
+FOODON:03301830,papaya (raw)
+FOODON:03301217,tomato sauce
+FOODON:03315272,pastry
+FOODON:03301663,licorice candy
+FOODON:03301545,cucumber (raw)
+FOODON:03303411,semolina (durum wheat)
+FOODON:00003230,muesli
+FOODON:00003169,rambutan (raw)
+FOODON:03309574,rutabaga (raw)
+FOODON:03311167,chive leaf (raw)
+FOODON:03309702,millet seed (dried)
+FOODON:03317508,polenta
+FOODON:00003068,arrowroot (raw)
+FOODON:00003548,sweet yellow bell pepper
+FOODON:03413796,pearl oyster mushroom
+FOODON:00002804,"snow pea pod (edible, fresh)"
+FOODON:03308215,abalone (raw)
+FOODON:03301035,coffee (instant)
+FOODON:00003436,brown rice
+FOODON:03301571,alfalfa sprout (raw)
+FOODON:00003199,filo
+FOODON:00003015,golden zucchini squash
+FOODON:03310228,green cabbage head (raw)
+FOODON:03306597,kumquat (raw)
+FOODON:03308793,snapper fillet (raw)
+FOODON:03301724,pear (raw)
+FOODON:03310193,quinoa seed (dried)
+FOODON:03301071,cocoa bean (raw)
+FOODON:03301123,grape (raw)
+FOODON:03310227,taco shell
+FOODON:03301813,mango (raw)
+FOODON:03302976,quince (raw)
+FOODON:03311513,Cavendish banana (ripe)
+FOODON:03307207,gravy mix (dry)
+FOODON:03301227,broad bean
+FOODON:03411489,scallop
+FOODON:03303921,spearmint
+FOODON:03309227,atlantic pollock (raw)
+FOODON:00001745,clove food product
+FOODON:03309709,eggplant (raw)
+FOODON:00002502,ham food product
+FOODON:00003077,red rice
+FOODON:00003008,red currant (raw)
+FOODON:03302304,cassava (raw)
+FOODON:03310815,soft drink
+FOODON:03302339,wheat flour (white)
+FOODON:00003172,welsh onion
+FOODON:00002961,chia seed
+FOODON:03420244,mammalian milk whey
+FOODON:00003157,almond milk
+FOODON:03302630,butternut (raw)
+FOODON:00002073,oregano food product
+FOODON:00002933,hazelnut
+FOODON:03301825,pistachio nut (raw)
+FOODON:03311347,elderberry (raw)
+FOODON:03302199,potato bread
+FOODON:03304506,date (raw)
+FOODON:00002212,rosemary food product
+FOODON:03307280,feta cheese
+FOODON:03303207,couscous (dried)
+FOODON:03311585,herbal tea
+FOODON:03302458,cheddar cheese
+FOODON:03315170,sugar substitute
+FOODON:03309927,tomato (raw)
+FOODON:00003247,parmesan cheese food product
+FOODON:03310273,white wine
+FOODON:03302453,gluten flour
+FOODON:00003076,daikon (raw)
+FOODON:03311502,chayote (raw)
+FOODON:03317281,beef sausage (raw)
+FOODON:03302045,blueberry (raw)
+FOODON:03310591,beef round steak (raw)
+FOODON:00003082,mountain yam
+FOODON:03302197,"potato (peeled, boiled)"
+FOODON:03315448,nori
+FOODON:00003064,watercress
+FOODON:03301275,mung bean
+FOODON:03311091,lamb chop (raw)
+FOODON:03306143,lemon peel
+FOODON:03301719,peach (raw)
+FOODON:00003069,asian pear (raw)
+FOODON:03310840,"beef (raw, lean)"
+FOODON:03305236,avocado (raw)
+FOODON:03411223,mussel
+FOODON:00003108,barley seed (raw)
+FOODON:00003060,pita bread
+FOODON:00002473,apple
+FOODON:00002718,ginger root
+FOODON:03308146,pacific oyster (raw)
+FOODON:03315784,chickpea (canned)
+FOODON:03315342,cake (sponge)
+FOODON:03311604,black currant (raw)
+FOODON:00003031,savoy cabbage head (raw)
+FOODON:03302672,milk (fermented)
+FOODON:00003579,navel orange
+FOODON:03411633,whelk
+FOODON:03301944,raisin bread
+FOODON:03302920,curry paste
+FOODON:00003063,arabica coffee (liquid)
+FOODON:03311663,beef steak (raw)
+FOODON:03302946,custard
+FOODON:00002743,roll or bun
+FOODON:03304859,kale leaf (raw)
+FOODON:03306544,turkey breast (raw)
+FOODON:00002753,bean
+FOODON:03301842,curry powder
+FOODON:00002515,carrot cake
+FOODON:03309719,moth bean
+FOODON:00003143,bulgur
+FOODON:03301595,wheat germ
+FOODON:03309779,red kidney bean
+FOODON:03411569,golden chanterelle
+FOODON:00003206,peanut
+FOODON:03310594,raspberry (frozen)
+FOODON:00003787,white rice
+FOODON:00003046,softneck garlic
+FOODON:03305103,meat (cooked)
+FOODON:03310351,butter
+FOODON:03308066,cod (smoked)
+FOODON:03302655,"coffee (decaffeinated, instant)"
+FOODON:00003049,hummus
+FOODON:00002686,spiny lobster
+FOODON:03301179,chicken liver (raw)
+FOODON:03310166,chicken thigh (raw)
+FOODON:03302735,pork (raw)
+FOODON:03310120,purslane leaf (raw)
+FOODON:00003428,maize cob
+FOODON:03317254,beetroot
+FOODON:03304537,chickpea flour
+FOODON:03305806,green bean pod
+FOODON:03316532,"tomato (whole or pieces, raw)"
+FOODON:00003277,rooibos tea (steeped)
+FOODON:00003085,japanese chestnut (raw)
+FOODON:03305165,breadnut tree seed
+FOODON:03311444,wheat bran breakfast cereal
+FOODON:03301103,orange juice
+FOODON:03305576,fish roe (raw)
+FOODON:00002937,soursop
+FOODON:00002673,chicken skin
+FOODON:03411346,quail
+FOODON:03315258,pancake
+FOODON:03302343,cornbread
+FOODON:03311007,pork shoulder (raw)
+FOODON:03304566,rose hip (raw)
+FOODON:03301300,pea
+FOODON:00002711,cracker
+FOODON:03309926,california valencia orange (raw)
+FOODON:03302374,scallop (raw)
+FOODON:00002426,arugula greens (raw)
+FOODON:03413721,sweet onion plant
+FOODON:03315361,adzuki bean
+FOODON:03301236,blackberry (raw)
+FOODON:03309554,bagel
+FOODON:00003059,piki
+FOODON:03309832,orange (raw)
+FOODON:00003119,salmonberry (raw)
+FOODON:03302473,oatmeal bread
+FOODON:03309834,cowpea (raw)
+FOODON:00003007,saskatoon berry
+FOODON:03315233,walnut (raw)
+FOODON:00002942,parsley leaf
+FOODON:03301889,cream cheese
+FOODON:03306893,berry (raw)
+FOODON:03309852,croissant
+FOODON:00002280,stone pine nut food product
+FOODON:03310841,turmeric (ground)
+FOODON:03302379,garlic bread
+FOODON:03306726,sweet green pepper (raw)
+FOODON:03301370,jerusalem artichoke (raw)
+FOODON:03301756,apricot (dried)
+FOODON:00003012,yellow bell pepper (raw)
+FOODON:03310710,tortilla chip
+FOODON:03301326,cabbage head (raw)
+FOODON:00003154,spelt kernel
+FOODON:03301702,grapefruit (raw)
+FOODON:03301107,nectarine (raw)
